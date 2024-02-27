@@ -50,6 +50,7 @@ INSTALLED_APPS = [
    # functionality such as models, views, templates, and static files. By including it in the
    # `INSTALLED_APPS` setting, Django knows to look for and use this app when running your project.
     'core',
+    'commercemaster',
 ]
 
 MIDDLEWARE = [
