@@ -45,6 +45,10 @@ INSTALLED_APPS = [
     # 'crispy_forms',
     # 'django_countries',
     
+   # The line `'core',` in the `INSTALLED_APPS` setting is adding a custom Django app named 'core' to
+   # the list of installed apps in your Django project. This app likely contains your project-specific
+   # functionality such as models, views, templates, and static files. By including it in the
+   # `INSTALLED_APPS` setting, Django knows to look for and use this app when running your project.
     'core',
 ]
 
