@@ -41,4 +41,4 @@ Special thanks to JustDjango for providing the tutorial series that guides my le
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007- see the LICENSE file for details.
